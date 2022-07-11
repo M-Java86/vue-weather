@@ -1,3 +1,6 @@
+![Vue Weather App](https://thepracticaldev.s3.amazonaws.com/i/ycmv5zahcnhwyfm4h3dl.png)
+
+
 # vue-weather
 
 ## Project setup
