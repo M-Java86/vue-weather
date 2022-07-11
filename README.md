@@ -1,5 +1,4 @@
-![](https://github.com/M-Java86/vue-weather/src/assets/images/cold-bj.jpg)
-
+![Vue Weather App](https://thepracticaldev.s3.amazonaws.com/i/ycmv5zahcnhwyfm4h3dl.png)
 
 
 # vue-weather
